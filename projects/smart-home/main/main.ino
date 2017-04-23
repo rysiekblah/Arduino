@@ -3,8 +3,8 @@
 #include "LightSensor.h"
 
 // Relay
-int buttonPin = 2;                          // button pin -- Digital 2
-int relayPin = 3;                           // relay pin -- Digital 3
+int buttonPin = 2; // button pin -- Digital 2
+int relayPin = 3;  // relay pin -- Digital 3
 int relayState = HIGH;
 long debounceDelay = 50;
 
