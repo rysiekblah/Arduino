@@ -1,0 +1,2 @@
+LightSensor KEYWORD1
+read        KEYWORD2
