@@ -1,2 +1,5 @@
 LightSensor KEYWORD1
+RelayInOn   KEYWORD1
+
 read        KEYWORD2
+check       KEYWORD2
